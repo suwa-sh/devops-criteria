@@ -1,5 +1,7 @@
 # DevOps Criteria
 
+![logo](docs/images/devops-criteria-logo.png)
+
 ## 概要
 
 事業全体のパフォーマンス、ソフトウェアデリバリのパフォーマンスを向上するために、相関関係のあるケイパビリティ群の強み/弱みを把握するアセスメントです。
@@ -8,8 +10,8 @@
 
 ## 目的
 
-このアセスメントを通じて、DevOpsという「ヒト、プロセス、テクノロジーを通して全体最適化を目指す思想」に賛同している人々の活動を支援したいと考えています。
-実施者の「自身のケイパビリティを高めつつ、自チームや自組織の現況や目標にしっくりくる道を模索する活動」を促すこと目的としています。
+このアセスメントを通じて、DevOpsという「ヒト、プロセス、テクノロジーを通して全体最適化を目指す思想」に賛同している方々の活動を支援したいと考えています。
+実施者の「自身のケイパビリティを高めつつ、自チームや自組織の現況や目標にしっくりくる道を模索する活動」を後押しすること目的としています。
 
 ## 調査項目の構造
 
@@ -63,9 +65,9 @@
 
 - [アセスメント GoogleSheets](https://docs.google.com/spreadsheets/d/1HlqHBWcPaE8yb0EjQmcMGymp02PI7n8qFuOUr6O5-f4/copy) をコピー
 - assessment シートに回答を入力
-  - [![Image from Gyazo](https://i.gyazo.com/61aff11bfa2c1c9429437b0a3c18d25c.png)](https://gyazo.com/61aff11bfa2c1c9429437b0a3c18d25c)
+  - ![assessment](docs/images/assessment.png)
 - chart シートで結果を確認
-  - [![Image from Gyazo](https://i.gyazo.com/fd5e032a5282879d657a946ac789b539.png)](https://gyazo.com/fd5e032a5282879d657a946ac789b539)
+  - ![chart](docs/images/chart.png)
 
 ## ライセンス
 
